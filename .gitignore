@@ -1,0 +1,15 @@
+# OS generated files
+.DS_Store
+
+# application generated
+*.log
+.vscode/
+*build/
+
+# testing
+.coverage
+.coverage.*
+
+# developping
+.notes
+*.ipy*
