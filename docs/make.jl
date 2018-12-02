@@ -17,3 +17,7 @@ makedocs(
         ]
     ]
 )
+
+deploydocs(
+    repo = "github.com/ludaavics/AdventOfCode.jl.git",
+)
