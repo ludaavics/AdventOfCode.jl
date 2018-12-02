@@ -16,4 +16,4 @@ _Using the [Advent of Code](https://adventofcode.com) as an excuse to (finally) 
 
 ## Disclaimer
 
-Since the main purpose is to get familiar with [Julia](https://julialang.org), much of this project is probably over-kill!
+I may present solutions that I've found elsewhere on the web (with proper attribution, of course): while I certainly enjoy the puzzle-solving aspect, my primary goal is to get my hands dirty in Julia, and build a cheat-sheet repo for future projects.

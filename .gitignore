@@ -13,3 +13,4 @@
 # developping
 .notes
 *.ipy*
+.python-version
